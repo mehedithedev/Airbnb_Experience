@@ -2,7 +2,7 @@ import React from "react";
 const Hero =()=>{
     return(
         <nav>
-            <img src="" alt=""/>
+            <img src="../assets/airbnb-logo.png" alt="Airbnb"/>
         </nav>
     )
 }
